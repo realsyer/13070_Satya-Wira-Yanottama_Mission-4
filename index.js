@@ -31,7 +31,7 @@ const months = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 
 const days = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', "Jum'at", 'Sabtu'];
 const dataUsers = [];
 /**
- * Example dataUsers : 
+ * Examplae dataUsers : 
   {
     name: 'John Doe',
     occupation: 'Penulis',
